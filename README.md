@@ -1,5 +1,5 @@
 # DirectX-11-Test
-This is a test projection about DirectX 11. 
+This is a test project about DirectX 11. 
    
 ##Description
 This project is written by C++ Language and DirectX 11 Graphic Lib.Inside,mesh is readed and translated by a C++ lib, tiny_obj_reader.
@@ -19,3 +19,6 @@ Path/model/-------|this is a path store model obj data.
 
 ##Image
 ![image](https://github.com/ArionTT/DirectX-11-Test/blob/master/AppImg/screenshot.png)
+
+##supplementary
+this project configure is absolute path（DXSDK）,so you will reconfigure it if you will run it in your own computer.
